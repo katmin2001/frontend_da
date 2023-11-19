@@ -48,8 +48,8 @@ const items = [
                     </Col>
                     <Col>
                         <div style={{ padding: '8px' }}>
-                            <div>Hoang Anh Duong</div>
-                            <div>duonghht1419@gmail.com</div>
+                            <div>Tran Nguyen Duc Anh</div>
+                            <div>trannguyenducanh@vti.com.vn</div>
                         </div>
                     </Col>
                     <Divider style={{ margin: 0 }} />
